@@ -1,0 +1,31 @@
+Root has been an idea for some time now, with all the members of root just sending individual attacks, we decided to come together as a group, collide all of our knowledge into one piece, this way we would be more vicious, a lot more stronger.
+Undoxable started Root as a website for friends to all feed of his gains, such as software he cracked, databases he leaked and doxes he dropped. But then expanded to something bigger, once we collided with Vision, we went in to making it a 
+website for user-searches, db-searches and more. Users could logon to root, with all their information hashed, IP, Hwid and anything which can link to them. You could join root as a community and search whatever needed to be searched
+related to the blackhat.
+
+We evolved from a community search to a big anonymous "Board" or "Forum". The users could post anything they want with security and anonymity, much like 4chan, but about technology, the blackhat sides of it. The kickstarter which got me
+(undoxable) into hacking, was when my friend always threat to dox me, yet I couldn't dox him. I got in touch with the right people and they lead me on the right track of being able to submit my own attacks, doxes and more.
+Without time I doxed this kid, with all his passwords to his paypal, minecraft (Which all sold for $500), databases, and even managed to get full remote-access to the users computer just by obtaining his internal IP.
+
+If you're like me and got into the hacking groups, and rooting and all that kind of subject, you seem to get targeted by many other groups, because we was the biggest of our area, we wanted to be beat, yet people just couldn't get us.
+The reason behind this, is not being stupid, when you are going into black-hat, do not think of sending the attacks and rooting a VPS, then your a real hacker. No, that is not how it works. Hacking is about security, you need to patch
+up any mistake you made in your time of being on the internet, then you go into blackhat, sending attacks and rooting. If you're venerable and you get targeted by other hackers which aren't skids, your fucked.
+
+You're not vunerable anymore, now it's time to learn the attacking methods, here is where I stop this tutorial / guide. You don't learn off of other people, you get the base off of other people, like learning where to learn and how to learn.
+The main tip is, to download some sort of software dedicated to penetesting or blackhat, and then trying it out. You want to grab as many IP's as you can and then go into Kali Linux or Backtrack, or the custom softbox (I don't recommend
+if your knew, costs $500 and you wont understand shit), then just try it out, trying is the way every hacker went into becoming the best he can.
+
+
+
+Technology is a smart tool, remember before posting anything on any service.
+
+>Every login you submit, every register you create, every word you post, every picture you save, is all locked onto the internet.
+The internet logs this cache, and can never be removed. You can do your best from hiding it from the public, but the real hackers,
+aren't public, they are private. The real hackers can find anything you post on the internet.
+
+>Be smart, if you have never posted anything on the internet, do not proceed to.
+You will always be targeted in this line of work.
+
+Copyright (c) 2016 Undoxable (ROOT) All Rights Reserved.
+
+Security is trust, security is a must.
